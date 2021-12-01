@@ -1,4 +1,4 @@
-# Default values for Traefik
+#   Default values for Traefik
 image:
   name: traefik
   # defaults to appVersion
